@@ -7,9 +7,6 @@
     "@semantic-release/release-notes-generator",
     "@semantic-release/github"
   ],
-  "prepare": [
-    "@semantic-release/npm"
-  ],
   "verifyConditions": [
     {
       "path": "@semantic-release/github",
